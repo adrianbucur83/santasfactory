@@ -1,5 +1,5 @@
 package com.siit;
 
 public enum ToyCategory {
-    DOLLS, LEGO, SUPERHEROES, CARS;
+    DOLLS, LEGO, SUPERHEROES, CARS
 }
